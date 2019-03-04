@@ -1,0 +1,7 @@
+name: AvatarFloat
+author: Numin
+version: 1.0
+api-version: 1.13
+depend: [ProjectKorra]
+main: me.numin.avatarfloat.Main
+description: A short animation for AvatarState
